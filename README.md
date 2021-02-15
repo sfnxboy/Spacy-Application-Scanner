@@ -1,7 +1,7 @@
 # Spacy-Application-Scanner
 
 ### Pip Install:
-In Anaconda Prompt Terminal run the following lines of code line by line
+In Anaconda Prompt Terminal run the following lines of code line by line  
 · easy_install pip  
 · pip install spacy  
 · pip install -U pip setuptools wheel  
